@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/6003822/how-to-detect-a-usb-drive-has-been-plugged-in
+
+https://stackoverflow.com/questions/13711812/parallel-generation-of-ui/15020157#15020157
+https://stackoverflow.com/questions/487661/how-do-i-suspend-painting-for-a-control-and-its-children
